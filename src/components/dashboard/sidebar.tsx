@@ -50,7 +50,7 @@ const Sidebar = () => {
           <ul className="navbar-nav">
             <li className="nav-item  ">
               <Link className="nav-link p-5" to="/dashboard">
-                <AiFillDashboard className="me-2" size={"1.5rem"} /> Accueil
+                <AiFillDashboard className="me-2" size={"1.5rem"} /> Statistical
               </Link>
             </li>
             <li className="nav-item ">
